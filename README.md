@@ -35,8 +35,8 @@ To clone and run this project locally, follow these steps:
 
 
 2. **Navigate to the project folder:**
-   ```bash
-cd color-generator
+   ```bash cd color-generator
+
 
 4. **Install dependencies: Vite requires dependencies to be installed. Run:**
    ```bash
