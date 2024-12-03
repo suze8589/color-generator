@@ -35,16 +35,19 @@ To clone and run this project locally, follow these steps:
 
 
 2. **Navigate to the project folder:**
-   ```bash cd color-generator
+   ```bash
+   cd color-generator
 
 
 4. **Install dependencies: Vite requires dependencies to be installed. Run:**
    ```bash
-  npm install
+   npm install
+ 
   
 6. **Start the development server: Launch the Vite development server:**
      ```bash
-  npm run dev
+     npm run dev
+
   
 8. **Open the project in your browser:**
   Vite will provide a local development URL (usually http://localhost:5173/). Open this link in your browser.
